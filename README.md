@@ -65,3 +65,7 @@ This is our experiment workload information.
 </p>
 
 
+## Dataset
+
+We generated a dataset of 1,000 configuration–performance pairs by sampling configurations using Latin Hypercube Sampling (LHS) and evaluating each configuration with BenchBase.
+Due to infrastructure constraints (the dataset was generated on our internal servers and is not directly redistributable), we do not release the raw dataset publicly. If you need access for research purposes, please contact us via email at seinkwon97@yonsei.ac.kr.
